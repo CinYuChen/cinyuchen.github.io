@@ -23,7 +23,7 @@ repository               : "CinYuChen/cinyuchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile2.jpg"
   name             : "Cin-Yu Chen"
   pronouns         : "she/her"  
   bio              : "Interested in probability theory, stochastic analysis, and mathematical finance."
