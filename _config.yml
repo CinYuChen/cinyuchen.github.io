@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Cin-Yu Chen"
 title_separator          : "-"
 name                     : &name "Cin-Yu Chen"
-description              : &description "PhD applicant"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Interested in probability theory, stochastic analysis, and mathematical finance"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://cinyuchen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile2.jpg"
   name             : "Cin-Yu Chen"
-  pronouns         : "she/her"  
-  bio              : "Interested in probability theory, stochastic analysis, and mathematical finance."
+  pronouns         : ""  
+  bio              : "PhD applicant"
   location         : "Taiwan"
   employer         : ""
   uri              : # URL
