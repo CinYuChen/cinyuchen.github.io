@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile2.jpg"
   name             : "Cin-Yu Chen"
-  pronouns         : ""  
-  bio              : "PhD applicant"
+  pronouns         : 
+  bio              : "PhD applicant in probability theory and mathematical finance"
   location         : "Taiwan"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "sarah871230@gmail.com" 
 
