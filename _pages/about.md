@@ -14,10 +14,10 @@ My current interests include Probability Theory, Martingale theory, and the inte
 
 Recently studying
 ------
-- FTAP in finite markets
+- FTAP in finite market model
 - American options & Snell envelope
 - Optimal stopping
 - Brownian motion
-- Stochastic calculu
+- Stochastic calculus
 
 
