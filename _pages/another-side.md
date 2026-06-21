@@ -15,7 +15,6 @@ This page contains selected works from my artistic journey.
 
 # Selected Works
 
-Interior Point
-------
+### Interior Point
 A ceramic interpretation of the topological concept of an interior point.
 [![Interior Point](/images/interior-point.jpg)](/portfolio/interior-point/)
