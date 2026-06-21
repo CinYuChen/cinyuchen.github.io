@@ -16,17 +16,11 @@ This page contains selected works from my artistic journey.
 ## Selected Works
 
 <div style="text-align:center;">
-
 <a href="/portfolio/interior-point/">
   <img src="/images/interior-point.jpg" width="250">
 </a>
-
 <br>
-
 <b>Interior Point</b>
-
 <br>
-
 A ceramic interpretation of the topological concept of an interior point.
-
 </div>
