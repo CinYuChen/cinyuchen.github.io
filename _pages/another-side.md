@@ -22,7 +22,7 @@ This page contains selected works from my artistic journey.
 <br><br>
 <b>Interior Point</b>
 <br>
-A ceramic interpretation of the topological concept of an interior point.
+A ceramic interpretation of the concept of an interior point.
 </div>
 
 
@@ -34,6 +34,6 @@ A ceramic interpretation of the topological concept of an interior point.
 <br><br>
 <b>Limit Point</b>
 <br>
-A ceramic interpretation of the topological concept of a limit point.
+A ceramic interpretation of the concept of a limit point.
 </div>
 
