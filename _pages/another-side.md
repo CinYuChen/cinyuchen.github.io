@@ -14,4 +14,6 @@ Rather than creating from the pain itself, I create from the understanding that 
 This page contains selected works from my artistic journey.
 
 
-
+Interior Point
+A ceramic interpretation of the topological concept of an interior point.
+[![Interior Point](/images/interior-point.jpg)](/portfolio/interior-point/)
