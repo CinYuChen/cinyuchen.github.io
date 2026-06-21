@@ -4,7 +4,6 @@ permalink: /another-side/
 author_profile: true
 ---
 
-# Another Side of Me
 
 While mathematics helps me explore structure and logic, art allows me to reflect on emotions and personal experiences. For me, art is a way of understanding both myself and the world.
 
