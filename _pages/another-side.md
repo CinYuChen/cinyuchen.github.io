@@ -14,6 +14,7 @@ Rather than creating from the pain itself, I create from the understanding that 
 This page contains selected works from my artistic journey.
 
 ## Selected Works
+### Mathematics in Ceramics:
 
 <div style="display:inline-block; width:300px; margin:20px; text-align:center; vertical-align:top;">
 <a href="/portfolio/interior-point/">
