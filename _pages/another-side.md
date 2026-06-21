@@ -15,11 +15,11 @@ This page contains selected works from my artistic journey.
 
 ## Selected Works
 
-<div style="text-align:center;">
+<div style="display:inline-block; width:300px; margin:20px; text-align:center; vertical-align:top;">
 <a href="/portfolio/interior-point/">
   <img src="/images/interior-point.jpg" width="250">
 </a>
-<br>
+<br><br>
 <b>Interior Point</b>
 <br>
 A ceramic interpretation of the topological concept of an interior point.
@@ -27,14 +27,13 @@ A ceramic interpretation of the topological concept of an interior point.
 
 
 
-<div style="text-align:center;">
+<div style="display:inline-block; width:300px; margin:20px; text-align:center; vertical-align:top;">
 <a href="/portfolio/limit-point/">
   <img src="/images/limit-point.jpg" width="250">
 </a>
-<br>
+<br><br>
 <b>Limit Point</b>
 <br>
-A ceramic interpretation of the topological concept of an limit-point.
+A ceramic interpretation of the topological concept of a limit point.
 </div>
-
 
