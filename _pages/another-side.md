@@ -13,6 +13,7 @@ Rather than creating from the pain itself, I create from the understanding that 
 
 This page contains selected works from my artistic journey.
 
+## Selected Works
 
 Interior Point
 ------
