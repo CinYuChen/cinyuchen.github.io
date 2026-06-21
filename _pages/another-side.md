@@ -13,8 +13,16 @@ Rather than creating from the pain itself, I create from the understanding that 
 
 This page contains selected works from my artistic journey.
 
-# Selected Works
+## Selected Works
 
 ### Interior Point
 A ceramic interpretation of the topological concept of an interior point.
-[![Interior Point](/images/interior-point.jpg)](/portfolio/interior-point/)
+<div style="display:inline-block; margin:20px; text-align:center;">
+<a href="/portfolio/interior-point/">
+<img src="/images/interior-point.jpg" width="250">
+</a>
+
+<br>
+
+<b>Interior Point</b>
+</div>
