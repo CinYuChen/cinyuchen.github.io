@@ -9,19 +9,19 @@
 
 main:
  - title: "Research"
-    url:
+   url:
     
  - title: "NOTES"
-    url: 
+   url: 
 
  - title: "CV"
-    url: /files/cvCINYU.pdf
+   url: /files/cvCINYU.pdf
     
  - title: "Another Side of Me"
-    url:
+   url:
 
-  - title: "CV"
-     url: /cv-json/
+ - title: "CV"
+   url: /cv-json/
     
   #- title: "Publications"
   #  url: /publications/
