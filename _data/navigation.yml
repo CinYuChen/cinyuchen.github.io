@@ -12,7 +12,7 @@ main:
    url: /research/
     
  - title: "NOTES"
-   url: 
+   url: /notes/
 
  - title: "CV"
    url: /files/cvCINYU.pdf
@@ -20,8 +20,8 @@ main:
  - title: "Another Side of Me"
    url: /another-side/
 
- - title: "CV"
-   url: /cv-json/
+ #- title: "CV"
+ #  url: /cv-json/
     
   #- title: "Publications"
   #  url: /publications/
