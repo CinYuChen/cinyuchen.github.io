@@ -24,3 +24,17 @@ This page contains selected works from my artistic journey.
 <br>
 A ceramic interpretation of the topological concept of an interior point.
 </div>
+
+
+
+<div style="text-align:center;">
+<a href="/portfolio/limit-point/">
+  <img src="/images/limit-point.jpg" width="250">
+</a>
+<br>
+<b>Limit Point</b>
+<br>
+A ceramic interpretation of the topological concept of an limit-point.
+</div>
+
+
