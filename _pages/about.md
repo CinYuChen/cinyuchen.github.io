@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD applicant interested in Probability Theory, Martingale Theory, Stochastic Analysis, and Mathematical Finance.
 
-I obtained my MSc in Applied Mathematics from National Chengchi University, Taiwan, under the supervision of [Prof. Shuenn-Jyi Sheu](https://scholar.google.com/citations?user=FMiMcUYAAAAJ&hl=en). My master's thesis studied discrete-time martingales and their applications to the Kalman filter. [follow](/files/A Study of Discrete Time Martingales with Applications in the Kalman Filter.pdf)
+I obtained my MSc in Applied Mathematics from National Chengchi University, Taiwan, under the supervision of [Prof. Shuenn-Jyi Sheu](https://scholar.google.com/citations?user=FMiMcUYAAAAJ&hl=en). My master's thesis studied discrete-time martingales and their applications to the Kalman filter. **Master's Thesis:** *A Study of Discrete-Time Martingales with Applications to the Kalman Filter* ([PDF](/files/THesis.pdf))
 
 My undergraduate years at National Dong Hwa University involved majoring in Applied Mathematics (in division of Statistical Science) and also minoring in Arts & Design. For a glimpse beyond mathematics, please visit the ["Another Side of Me"](https://cinyuchen.github.io/another-side/) page. 
 
