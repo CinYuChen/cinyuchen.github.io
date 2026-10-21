@@ -11,15 +11,14 @@ main:
  - title: "Research Interests"
    url: /research/
     
- #- title: "Notes"
-   #url: /notes/
-
  - title: "CV"
    url: /files/cvCINYU.pdf
     
  - title: "Another Side of Me"
    url: /another-side/
 
+ #- title: "Notes"
+   # url: /notes/
  #- title: "CV"
  #  url: /cv-json/
     
