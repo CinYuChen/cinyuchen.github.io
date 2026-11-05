@@ -17,7 +17,6 @@ My undergraduate years at National Dong Hwa University involved majoring in Appl
 
 
 ## Academic Training
-
 Graduate Coursework
 - Advanced Probability Theory — Probability with Martingales, David Williams
 - Stochastic Calculus — Brownian Motion, Martingales, and Stochastic Calculus, Jean-François Le Gall
