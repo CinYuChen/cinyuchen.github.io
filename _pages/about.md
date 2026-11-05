@@ -26,7 +26,7 @@ Undergraduate Coursework
 - Advanced Probability Theory —	Probability with Martingales, David Williams
   
 Graduate Coursework
-- Real Analysis —	Real Analysis — Royden & Fitzpatrick
+- Real Analysis —	Real Analysis, Royden & Fitzpatrick
 - Probability and Measure Theory — Probability with Martingales, David Williams
 - Stochastic Calculus — Brownian Motion, Martingales, and Stochastic Calculus, Jean-François Le Gall
 
