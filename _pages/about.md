@@ -16,6 +16,7 @@ I obtained my MSc in Applied Mathematics from National Chengchi University, Taiw
 My undergraduate years at National Dong Hwa University involved majoring in Applied Mathematics (in division of Statistical Science) and also minoring in Arts & Design. For a glimpse beyond mathematics, please visit the ["Another Side of Me"](https://cinyuchen.github.io/another-side/) page. 
 
 
+
 ## Academic Training
 Graduate Coursework
 - Advanced Probability Theory — Probability with Martingales, David Williams
