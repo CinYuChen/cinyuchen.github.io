@@ -20,19 +20,19 @@ My undergraduate years at National Dong Hwa University involved majoring in Appl
 ## Academic Training
 
 Undergraduate Coursework
-- Real Analysis —	The Elements of Integration and Lebesgue Measure, Robert. G. Bartle 
-- Probability Theory — A First Course in Probability, Sheldon M. Ross
-- Stochastic Models — Introduction to Probability Models, Sheldon M. Ross
-- Advanced Probability Theory —	Probability with Martingales, David Williams
+- Real Analysis —	*The Elements of Integration and Lebesgue Measure*, Robert. G. Bartle 
+- Probability Theory — *A First Course in Probability*, Sheldon M. Ross
+- Stochastic Models — *Introduction to Probability Models*, Sheldon M. Ross
+- Advanced Probability Theory —	*Probability with Martingales*, David Williams
   
 Graduate Coursework
-- Real Analysis —	Real Analysis, Royden & Fitzpatrick
-- Probability and Measure Theory — Probability with Martingales, David Williams
-- Stochastic Calculus — Brownian Motion, Martingales, and Stochastic Calculus, Jean-François Le Gall
+- Real Analysis —	*Real Analysis*, Royden & Fitzpatrick
+- Probability and Measure Theory — *Probability with Martingales*, David Williams
+- Stochastic Calculus — *Brownian Motion, Martingales, and Stochastic Calculus*, Jean-François Le Gall
 
 Additional Studies & Reading Seminars
-- Brownian Motion — Brownian Motion, Peter Mörters and Yuval Peres
-- Mathematical Finance — Introduction to the mathematics of finance, Ruth. J. Williams
+- Brownian Motion — *Brownian Motion*, Peter Mörters and Yuval Peres
+- Mathematical Finance — *Introduction to the mathematics of finance*, Ruth. J. Williams
 
 
 
